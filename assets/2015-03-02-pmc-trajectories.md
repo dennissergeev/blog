@@ -443,4 +443,4 @@ for j, lab in enumerate(['N','E','S','W','N']):
 
 Looks a bit ugly, but whatever...
 
-This post was written as an Jupyter Notebook. You can view or download it using [nbviewer](http://nbviewer.ipython.org/github/dennissergeev/dennissergeev.github.io/blob/master/_blog/_notebooks/2015-03-02-pmc-trajectories.ipynb)
+This post was written as an Jupyter Notebook. You can view or download it using [nbviewer](http://nbviewer.ipython.org/github/dennissergeev/blog/blob/main/_blog/_notebooks/2015-03-02-pmc-trajectories.ipynb)

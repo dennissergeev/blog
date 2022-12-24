@@ -418,4 +418,4 @@ The figure shows multiple convective plumes in the southern (left) part of the c
 
 It would be interesting to complement this plot with other CloudSat products and CALIPSO backscatter data. Well, maybe in another post.
 
-This post was written as an Jupyter Notebook. You can view or download it using [nbviewer](http://nbviewer.ipython.org/github/dennissergeev/dennissergeev.github.io/blob/master/_blog/_notebooks/2015-11-15-dissecting-patricia.ipynb)
+This post was written as an Jupyter Notebook. You can view or download it using [nbviewer](http://nbviewer.ipython.org/github/dennissergeev/blog/blob/main/_blog/_notebooks/2015-11-15-dissecting-patricia.ipynb)

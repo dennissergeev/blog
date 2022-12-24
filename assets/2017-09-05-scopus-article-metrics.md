@@ -228,4 +228,4 @@ print(df.sort_values('year').to_latex())
 
 Some rights reserved. This work permits non-commercial use, distribution, and reproduction in any medium, provided the original author and source are credited.
 
-This post was written as an Jupyter Notebook. You can view or download it using [nbviewer](http://nbviewer.ipython.org/github/dennissergeev/dennissergeev.github.io/blob/master/_blog/_notebooks/2017-09-05-scopus-article-metrics.ipynb)
+This post was written as an Jupyter Notebook. You can view or download it using [nbviewer](http://nbviewer.ipython.org/github/dennissergeev/blog/blob/main/_blog/_notebooks/2017-09-05-scopus-article-metrics.ipynb)
